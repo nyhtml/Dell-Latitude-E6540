@@ -1,7 +1,7 @@
 # Dell Latitude E6540 Hackintosh Laptop<br>
 ★ Intel Core i5-4300u 1.9GHz Processor<br>
-★ 8GB/16GB DDR3 RAM<br>
-★ Samsung 1TB SSD (7mm and partitioned for Dual-booting)<br>
+★ 16GB DDR3 1600 RAM<br>
+★ Samsung 1TB SSD (7mm)<br>
 ★ Microsoft Windows 10 Professional (64-Bit)<br>
 ★ Apple macOS Mojave 10.14.6.<br>
 ★ Dell 15.6-inch HD (1920×1080) Anti-Glare LED-backlit display<br>
