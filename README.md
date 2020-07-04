@@ -2,8 +2,6 @@
 ★ Intel Core i5-4300u 1.9GHz Processor<br>
 ★ 16GB DDR3 1600 RAM<br>
 ★ Samsung 1TB SSD (7mm)<br>
-★ Microsoft Windows 10 Professional (64-Bit)<br>
-★ Apple macOS Mojave 10.14.6.<br>
 ★ Dell 15.6-inch HD (1920×1080) Anti-Glare LED-backlit display<br>
 ★ Dell 130W AC Adapter with 6-foot cord<br>
 ★ Dell 97W VJCH5 Rechargeable Battery<br>
