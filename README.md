@@ -4,10 +4,10 @@
 ★ Samsung 1TB SSD (7mm and partitioned for Dual-booting)<br>
 ★ Microsoft Windows 10 Professional (64-Bit)<br>
 ★ Apple macOS Mojave 10.14.6.<br>
-★ Dell 14-inch HD (1366×768) or 14-inch HD+ (1600×900) Anti-Glare LED-backlit display<br>
-★ Dell 65W AC Adapter with 6-foot cord<br>
-★ Dell 65W VV0NF Rechargeable Battery<br>
-★ Non-Backlit Keyboard (Backlit Keyboard available)<br>
+★ Dell 15.6-inch HD (1920×1080) Anti-Glare LED-backlit display<br>
+★ Dell 130W AC Adapter with 6-foot cord<br>
+★ Dell 97W VJCH5 Rechargeable Battery<br>
+★ Backlit Keyboard<br>
 ★ 1-year warranty and online support.<br>
 <br>
 <strong>Optional Communicating Hardware</strong><br>
