@@ -1,4 +1,4 @@
-# <a title="Dell Latitude E6540 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e6540/#reddit">Dell Latitude E6540 Hackintosh Laptop</a><br>
+# <a title="Dell Latitude E6540 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e6540/#github">Dell Latitude E6540 Hackintosh Laptop</a><br>
 ★ Intel Core i5-4300u 1.9GHz Processor<br>
 ★ 16GB DDR3 1600 RAM<br>
 ★ Samsung 1TB SSD (7mm)<br>
