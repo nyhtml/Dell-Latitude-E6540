@@ -21,4 +21,4 @@
 – Carrying Case/Protective Skin<br>
 <br>
 # Compatibility<br>
-The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Mojave 10.14.6.
+The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
