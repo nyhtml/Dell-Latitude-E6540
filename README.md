@@ -1,24 +1,32 @@
-# <a title="Dell Latitude E6540 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e6540/#github">Dell Latitude E6540 Hackintosh Laptop</a><br>
-★ Intel Core i5-4300u 1.9GHz Processor<br>
-★ 16GB DDR3 1600 RAM<br>
-★ Samsung 1TB SSD (7mm)<br>
-★ Dell 15.6-inch HD (1920×1080) Anti-Glare LED-backlit display<br>
-★ Dell 130W AC Adapter with 6-foot cord<br>
-★ Dell 97W VJCH5 Rechargeable Battery<br>
-★ Backlit Keyboard<br>
-★ 1-year warranty and online support.<br>
-<br>
-<strong>Optional Communicating Hardware</strong><br>
-★ Atheros 5GHz Wireless WLAN WiFi with Bluetooth Card with Menu Bar Control or<br>
-★ TP-Link USB WiFi with Menu Bar Control and GMYLE Bluetooth 4.0 USB Adapter<br>
-<br>
-<strong>Not Included</strong><br>
-– Paper Manuals/Product Setup Guides<br>
-– Audio Cables/Video Cables/Adapters<br>
-– Operating System Recovery Media<br>
-– Any Application/Drivers/Programs Not Stated<br>
-– Any Accessories/Media Not Stated<br>
-– Carrying Case/Protective Skin<br>
-<br>
-# Compatibility<br>
-The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that is supported is Catalina 10.15.7.
+# Dell Latitude E6540
+The Dell Latitude E6540 Hackintosh Laptop Project
+
+## Table of Contents
+
+* [The Build](#the-build)
+* [Prepare Install Media](#prepare-install-media)
+* [Install a Bootloader](#install-a-bootloader)
+  * [Configure Clover](#configure-clover)
+  * [Configure OpenCore](#configure-opencore)
+* [Gather Kexts](#gather-kexts)
+* [BIOS Settings](#bios-settings-version-f12c)
+* [Prepare for macOS Installation](#prepare-for-macos-installation)
+* [Install macOS Mojave](#install-macos-mojave)
+* [Post Installation](#post-installation)
+  * [Make macOS Drive Bootable](#make-macos-drive-bootable)
+  * [Enable the Discrete Graphics Card with Headless iGPU](#enable-the-discrete-graphics-card-with-headless-igpu)
+  * [Map USB Ports](#map-usb-ports)
+  * [Enable Bluetooth](#enable-bluetooth)
+  * [Enable FileVault](#enable-filevault)
+  * [Enable TRIM for Solid State Drives](#enable-trim-for-solid-state-drives)
+  * [Fix CPU Type in About This Mac](#fix-cpu-type-in-about-this-mac)
+  * [Fix Memory Tab in About This Mac](#fix-memory-tab-in-about-this-mac)
+  * [Install Clover Theme](#install-clover-theme)
+* [Install Windows 10](#install-windows-10)
+* [Final BIOS Settings](#final-bios-settings)
+* [Final Clover Configuration](#final-clover-configuration)
+* [Benchmarks](#benchmarks)
+* [Issues](#issues)
+* [Upgrade Log](#upgrade-log)
+* [References](#references)
+* [Resources](#resources)
